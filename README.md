@@ -1,6 +1,6 @@
-Hi, I'm Aldo Iturrios! I'm currently a masters student in Applied Statistics at the University of Michigan (UM) and a Graduate Student Instructor for UM's introductory statistics course (STATS 250). Previously, I was a data analyst at Mathematica for 2 years and have also worked at the Pew Research Center and Pandora. 
+Hi, I'm Aldo Iturrios! I'm a Data Scientist working for the US Navy on a variety of data driven projects. Previously, I graduated from the University of Michigan with a master's in applied statistics. Before that, I worked as a data analyst at Mathematica, Pandora Media Inc., and the Pew Research Center.
 
-Feel free to reach out at aiturrios12@gmail.com.
+Feel free to reach out to me vie email at aiturrios12@gmail.com.
 
 <!---
 aldoiturrios/aldoiturrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
